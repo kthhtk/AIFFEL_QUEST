@@ -1,6 +1,6 @@
 # 런냥이 앱 분석 및 역설계 하기 
 
-https://github.com/rudyru2003/AIFFEL_QUEST/result/149554171/90f89e0e-ec91-4bd4-8fb2-22a7f78742fb
+https://github.com/rudyru2003/AIFFEL_QUEST/result/
 
 ## 소개
 이번 아이펠톤 프로젝트 아이디어를 구상할 때 생각했던 요소가 날씨 데이터를 사용하는 것 이였고, 한국의 기상청 API를 쓰진 않았지만 외국의 openWeater 라는 곳의 api를 사용하여 제작하였습니다.
