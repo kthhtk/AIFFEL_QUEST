@@ -1,11 +1,15 @@
 # 런냥이 앱 분석 및 역설계 하기 
 
-https://github.com/rudyru2003/AIFFEL_QUEST/result/
+![AI-UX-4-2-08 original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/1a237b3c-912b-4763-9f13-22fe714549dc)
+
 
 ## 소개
 이번 아이펠톤 프로젝트 아이디어를 구상할 때 생각했던 요소가 날씨 데이터를 사용하는 것 이였고, 한국의 기상청 API를 쓰진 않았지만 외국의 openWeater 라는 곳의 api를 사용하여 제작하였습니다.
 JSON 타입의 data를 받아와서 UI를 배치하여, 자동으로 사용자의 Location(지역)을 받아서, 위치, 날짜 및 시간, 온도, 구름량, 대기질지수, 미세먼지, 초미세먼지를 제공해줍니다.
 다른 사람들처럼 model을 사용하지 않았지만, json타입의 파일을 받아서 정상적으로 사용할 수 있는것이 미래의 프로젝트를 할때 도움이 된다고 생각하여 선정하였습니다.
+
+
+![AI-UX-4-2-11_j7hKLsb original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/538223ca-bc1c-4a0a-a4f6-17f27fc9a6f4)
 
 
 ## 페이지 구현
@@ -15,6 +19,9 @@ JSON 타입의 data를 받아와서 UI를 배치하여, 자동으로 사용자�
 4. my_location.dart - 현재 디바이스 기기의 지역 위도, 경도를 받아 함수화 합니다.
 5. network.dart - loading.dart에서 받은 url로 json 타입의 data를 호출하여 함수화 합니다.
 6. model.dart - 현재 날씨, 구름의 양, 대기질지수, 미세먼지, 초미세먼지 의 각 세부사항을 설정하여 weather_screen에 띄우는 것을 함수화 합니다.
+
+
+![AI-UX-4-2-13 original](https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/276a76a9-dadc-47c0-a9d3-169e7c033693)
 
 
 ## 참고
