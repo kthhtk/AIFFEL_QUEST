@@ -41,9 +41,11 @@
 5. run_test.dart - 런냥이 테스트 페이지
 
 
+
 ## 구현영상 
-[(https://github.com/rudykim2003/AIFFEL_QUEST/issues/1#issue-2382589087)
-](https://github.com/rudykim2003/AIFFEL_QUEST/issues/1#issue-2382589087)
+https://github.com/rudykim2003/AIFFEL_QUEST/assets/86637005/c7f3c3ae-5a26-41ac-bfb0-9cf11bbd074b
+
+
 
 
 ## 참고 학습 자료 
