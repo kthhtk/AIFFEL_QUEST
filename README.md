@@ -42,7 +42,9 @@
 
 
 ## 구현영상 
-(https://github.com/rudykim2003/AIFFEL_QUEST/issues/1#issue-2382589087)
+[(https://github.com/rudykim2003/AIFFEL_QUEST/issues/1#issue-2382589087)
+](https://github.com/rudykim2003/AIFFEL_QUEST/issues/1#issue-2382589087)
+
 
 ## 참고 학습 자료 
 
