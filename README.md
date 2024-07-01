@@ -42,12 +42,9 @@
 
 
 ## 구현영상 
-![AI-UX-4-2-14 original](https://github.com/rudykim2003/AIFFEL_QUEST/blob/main/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9D%B4%ED%95%91.mp4)
-
-
-
-
-
+<p align="center">
+<img src="https://github.com/rudykim2003/AIFFEL_QUEST/blob/main/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9D%B4%ED%95%91.mp4">
+</p>
 
 ## 참고 학습 자료 
 
